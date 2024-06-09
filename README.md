@@ -23,8 +23,7 @@
    ```
 
 ## Usage
-
-After running the application, a new window will open displaying the user interface.
-Upload a video file (supported formats: .mp4, .avi) using the file uploader.
-The application will process the video, detect persons, and display the count of people entering and exiting through the defined door area.
+1. After running the application, a new window will open displaying the user interface.
+2. Upload a video file (supported formats: .mp4, .avi) using the file uploader.
+3. The application will process the video, detect persons, and display the count of people entering and exiting through the defined door area.
 
