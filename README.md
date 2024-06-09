@@ -15,6 +15,8 @@
 1. **Clone the Repository**:
    ```
    git clone https://github.com/yourusername/DoorEntryCounter.git
+   ```
+   ```
    cd DoorEntryCounter
    ```
 2. Run the Application:
