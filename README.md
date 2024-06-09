@@ -2,7 +2,7 @@
 
 **3ntryC0unter** is an application designed to track and count the number of students entering through a defined door area in a video feed suing the YOLO object detection model, this application provides accurate real-time tracking and counting of individuals.
 
-## Features
+``## Features``
 
 - **Real-time Person Detection**: Uses the YOLO model to detect and identify persons in video frames.
 - **Custom Door Area**: Define a custom polygonal area to represent the door or entryway for tracking.
@@ -10,9 +10,9 @@
 - **Interactive Interface**: Provides a simple and interactive interface for uploading videos and viewing results.
 - **Easy to Use**: Upload your video and see the results in real-time with minimal setup.
 
-## Installation
+## ``Installation``
 
-1. ``**Clone the Repository``
+1. **Clone the Repository
    ```
    git clone https://github.com/yourusername/DoorEntryCounter.git
    ```
